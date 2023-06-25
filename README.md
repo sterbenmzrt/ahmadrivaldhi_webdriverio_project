@@ -10,7 +10,6 @@ how to run this project:
 - can download this project
 - open your local device
 - after that type on the terminal 'npm install'
-- after that you can delete folder allure-report and allure results for the newest report after the running
 - and run on the terminal with 'npm run wdio' for the run all test parallel
 - spesific test can use 'npx wdio run wdio.conf.js  --spec ./test/scene-1/scene-test-1.js' for scene 1
 - spesific test can use 'npx wdio run wdio.conf.js  --spec ./test/scene-2/scene-test-2.js' for scene 2
