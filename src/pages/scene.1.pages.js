@@ -1,5 +1,4 @@
 const BasePage = require("../../base/BasePage");
-const elementUtil = require("../utils/elementUtils");
 const locators = require("../../src/locators/BaseLocators");
 const chai = require("chai");
 const constant = require("../../constant");
