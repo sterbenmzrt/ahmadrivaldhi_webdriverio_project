@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jun 26 00:39:04 WIB 2023","Mon Jun 26 00:39:15 WIB 2023","10999","","Scenario 2","","","","User search products with keywords Macbook then change the category to Computer/Tablets ","Validate First Results Card List Match with keywords search when user changes category to Computer/Tablets"
+"passed","Mon Jun 26 00:39:04 WIB 2023","Mon Jun 26 00:39:40 WIB 2023","35625","","Scenario 1","","","","User search products with keywords Cell Phones & Smartphones with applying 3 Filters","Validate user can apply 3 Filters (Screen Size, Item Location, Price"
