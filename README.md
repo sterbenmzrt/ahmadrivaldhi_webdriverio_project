@@ -1,5 +1,5 @@
 # ahmadrivaldhi_project_2
-this project for inital test
+this project is my first using WebdriverIO with Page Object Models 
 - folder src for source code for page action and locators
 - folder base for page url
 - folder test for running test and implementation from page action
